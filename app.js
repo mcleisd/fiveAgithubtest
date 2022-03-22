@@ -1,5 +1,12 @@
-console.log("Hello")
-
-if (x == "sure") {
-    alert("This code is wrong everywhere")
+function age() {
+    var a = prompt("What's your age?")
+    return a
 }
+
+console.log(age())
+
+// random comment
+
+
+
+
